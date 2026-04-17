@@ -1,0 +1,16 @@
+[package]
+name = "lcurs"
+description = "Implementation of the /check unit-di command into the rust programming language"
+version = "0.0.1"
+authors = ["neuxdotdev <neuxdev1@gmail.com>"]
+edition = "2024"
+documentation = "https://docs.rs/lcurs"
+homepage = "https://lcurs.vercel.app"
+readme = "readme.md"
+repository = "https://github.com/neuxdotdev/lcurs.git"
+license = "AGPL-3.0"
+license-file = "license"
+keywords = ["implementation", "alternatif", "cekunit", "internal", "automation"]
+
+
+[dependencies]
